@@ -21,7 +21,8 @@ img {
   text-align: center;
   color: #2c3e50;
   background-color: #e8e8ef;
-  height: 100vh;
+  height: 100%;
+  padding-bottom: 50px;
   
 }
 
